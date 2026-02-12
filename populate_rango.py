@@ -66,9 +66,3 @@ def add_cat(name):
 if __name__ == '__main__':
     print('Starting Rango population script...')
     populate()
-
-
-
-
-
-
